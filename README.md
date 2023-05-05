@@ -37,104 +37,7 @@
 <tr>
 <td>
   
-### 🏢 Work Experience
-
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
-  
-</td>
-</tr>
-
-<tr><td>
-
-<!-- 近期博客 -->
-### 📃 Recent Blog
-  
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
-
-<!-- START_SECTION:blog -->
-
-<!-- END_SECTION:blog -->
-
-</td></tr>
-
-<tr><td>
-
-### 🧠 Second Brain
-
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
-
-<!-- START_SECTION:brain -->
-
-<!-- END_SECTION:brain -->
-
-</td></tr>
-
-<tr><td>
-
-### 🤾‍♂️ Funny Soul
-
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
-
-<!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/35193035/' target='_blank'>最近在读认知觉醒</a> 🌟🌟🌟🌟🌟 力荐- 2023-04-17
-* <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过活着</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过假如爱有天意</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='http://movie.douban.com/subject/35465232/' target='_blank'>在看狂飙</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-<!-- END_SECTION:douban -->
-
-</td></tr>
-
-<tr><td>
-
-<!-- wakatime 统计 -->
-### 📊 WakaTime
-  
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                197 commits         █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
-🌆 Daytime                302 commits         ███████░░░░░░░░░░░░░░░░░░   27.81 % 
-🌃 Evening                451 commits         ██████████░░░░░░░░░░░░░░░   41.53 % 
-🌙 Night                  136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   188 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-Tuesday                  143 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-Wednesday                119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-Thursday                 103 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-Friday                   295 commits         ███████░░░░░░░░░░░░░░░░░░   27.16 % 
-Saturday                 120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-Sunday                   118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Vue.js                   6 hrs 23 mins       █████████████████░░░░░░░░   66.05 % 
-Markdown                 1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-JavaScript               1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-Python                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-TypeScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-
-🔥 Editors: 
-VS Code                  9 hrs 40 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      9 hrs 40 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 04/05/2023 01:22:09 UTC
-<!--END_SECTION:waka-->
-  
+ 
 </td></tr>
 </table>
 
@@ -152,7 +55,6 @@ mindmap
       人工智能
     摄影
       人文
-      建筑
       风景
     旅行
       苏州
@@ -165,7 +67,6 @@ mindmap
       个人成长
       社会文化
       心理
-      计算机技术
 ```
 
 <!-- just img 图片 -->
